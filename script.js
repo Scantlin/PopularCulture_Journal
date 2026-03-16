@@ -181,6 +181,11 @@
                     title: 'The Frozen Frame',
                     description: 'Our Tableau depicting Filipino bravery against corruption',
                     imageSrc: 'mid2-3.jpeg' // Update with your actual image filename
+                }, 
+                '17':{
+                   title: 'The Frozen Frame',
+                    description: 'Our Tableau depicting Filipino bravery against corruption',
+                    imageSrc: 'Mid4-1.png' // Update with your actual image filename 
                 }
             };
 
