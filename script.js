@@ -186,7 +186,62 @@
                    title: 'The Frozen Frame',
                     description: 'Our Tableau depicting Filipino bravery against corruption',
                     imageSrc: 'Mid4-1.png' // Update with your actual image filename 
-                }
+                },
+                '18':{
+                    imageSrc: 'prefinal1-1.jpg'
+                },
+                '19':{
+                    imageSrc: 'prefinal1-2.jpg'
+                },
+                '20':{
+                    imageSrc: 'prefinal1-3.jpg'
+                },
+                '21':{
+                    imageSrc: 'prefinal1-4.jpg'
+                },
+                '22':{
+                    imageSrc: 'Sportsfest1.mp4',
+                    isVideo: true
+                },
+                '23':{
+                    imageSrc: 'Sportsfest2.jpg'
+                },
+                '24':{
+                    imageSrc: 'Sportsfest3.jpg'
+                },
+                '25':{
+                    imageSrc: 'Sportsfest4.jpg'
+                },
+                '26':{
+                    imageSrc: 'prefinal3-1.jpg'
+                },
+                '27':{
+                    imageSrc: 'prefinal4-1.jpg'
+                },
+                '28':{
+                    imageSrc: 'prefinal4-2.jpg'
+                },
+                '29':{
+                    imageSrc: 'prefinal5-1.jpg'
+                },
+                '30':{
+                    imageSrc: 'prefinal6-1.jpg'
+                },
+                '31':{
+                    imageSrc: 'prefinal6-2.jpg'
+                },
+                '32':{
+                    imageSrc: 'prefinal7-1.jpg'
+                },
+                '33':{
+                    imageSrc: 'prefinal7-2.jpg'
+                },
+                '34':{
+                    imageSrc: 'prefinal7-3.png'
+                },
+                '35':{
+                    imageSrc: 'prefinal8-1.png'
+                },
             };
 
             // Create modal overlay if it doesn't exist
