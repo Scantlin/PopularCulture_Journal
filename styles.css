@@ -205,13 +205,13 @@ nav a:hover {
 }
 
 .date-day {
-    font-size: 1.3rem;
+    font-size: 0.9rem;
     font-weight: bold;
     line-height: 1.2;
 }
 
 .date-month {
-    font-size: 0.8rem;
+    font-size: 0.65rem;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
